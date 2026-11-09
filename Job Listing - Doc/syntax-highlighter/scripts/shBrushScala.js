@@ -3,7 +3,7 @@
  * http://alexgorbatchev.com/SyntaxHighlighter
  *
  * SyntaxHighlighter is donationware. If you are using it, please donate.
- * http://alexgorbatchev.com/SyntaxHighlighter/donate.html
+ * http://alexgorbatchev.com/SyntaxHighlighter/donate.php
  *
  * @version
  * 3.0.83 (July 02 2010)

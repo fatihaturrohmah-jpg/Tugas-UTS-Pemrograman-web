@@ -48,7 +48,7 @@
                     </div>
 
                     <button type="submit" name="kirim" class="btn btn-primary px-4">Kirim Lamaran</button>
-                    <a href="index.html" class="btn btn-secondary px-4">Batal</a>
+                    <a href="index.php" class="btn btn-secondary px-4">Batal</a>
                 </form>
             </div>
         </div>

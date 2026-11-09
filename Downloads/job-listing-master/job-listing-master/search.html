@@ -35,21 +35,21 @@
 			    <div class="container">
 			    	<div class="row align-items-center justify-content-between d-flex">
 				      <div id="logo">
-				        <a href="index.html"><img src="img/logo.png" alt="" title="" /></a>
+				        <a href="index.php"><img src="img/logo.png" alt="" title="" /></a>
 				      </div>
 				      <nav id="nav-menu-container">
 				        <ul class="nav-menu">
-				          <li class="menu-active"><a href="index.html">Home</a></li>
-				          <li><a href="about-us.html">About Us</a></li>
-				          <li><a href="category.html">Category</a></li>
-				          <li><a href="price.html">Price</a></li>
-				          <li><a href="blog-home.html">Blog</a></li>
-				          <li><a href="contact.html">Contact</a></li>
+				          <li class="menu-active"><a href="index.php">Home</a></li>
+				          <li><a href="about-us.php">About Us</a></li>
+				          <li><a href="category.php">Category</a></li>
+				          <li><a href="price.php">Price</a></li>
+				          <li><a href="blog-home.php">Blog</a></li>
+				          <li><a href="contact.php">Contact</a></li>
 				          <li class="menu-has-children"><a href="">Pages</a>
 				            <ul>
-								<li><a href="elements.html">elements</a></li>
-								<li><a href="search.html">search</a></li>
-								<li><a href="single.html">single</a></li>
+								<li><a href="elements.php">elements</a></li>
+								<li><a href="search.php">search</a></li>
+								<li><a href="single.php">single</a></li>
 				            </ul>
 				          </li>
 				          <li><a class="ticker-btn" href="#">Signup</a></li>
@@ -71,7 +71,7 @@
 								Search Results				
 							</h1>
 							<p class="text-white link-nav">
-								<a href="index.html">Home </a> <span class="lnr lnr-arrow-right"></span> <a href="search.html"> Job details page</a>
+								<a href="index.php">Home </a> <span class="lnr lnr-arrow-right"></span> <a href="search.php"> Job details page</a>
 							</p>	
 							<form action="#" class="serach-form-area">
 								<div class="row justify-content-center form-wrap">
@@ -137,7 +137,7 @@
 								<div class="details">
 									<div class="title d-flex flex-row justify-content-between">
 										<div class="titles">
-											<a href="single.html"><h4>Creative Art Designer</h4></a>
+											<a href="single.php"><h4>Creative Art Designer</h4></a>
 											<h6>Premium Labels Limited</h6>					
 										</div>
 										<ul class="btns">
@@ -171,7 +171,7 @@
 								<div class="details">
 									<div class="title d-flex flex-row justify-content-between">
 										<div class="titles">
-											<a href="single.html"><h4>Creative Art Designer</h4></a>
+											<a href="single.php"><h4>Creative Art Designer</h4></a>
 											<h6>Premium Labels Limited</h6>					
 										</div>
 										<ul class="btns">
@@ -205,7 +205,7 @@
 								<div class="details">
 									<div class="title d-flex flex-row justify-content-between">
 										<div class="titles">
-											<a href="single.html"><h4>Creative Art Designer</h4></a>
+											<a href="single.php"><h4>Creative Art Designer</h4></a>
 											<h6>Premium Labels Limited</h6>					
 										</div>
 										<ul class="btns">
@@ -239,7 +239,7 @@
 								<div class="details">
 									<div class="title d-flex flex-row justify-content-between">
 										<div class="titles">
-											<a href="single.html"><h4>Creative Art Designer</h4></a>
+											<a href="single.php"><h4>Creative Art Designer</h4></a>
 											<h6>Premium Labels Limited</h6>					
 										</div>
 										<ul class="btns">
@@ -273,7 +273,7 @@
 								<div class="details">
 									<div class="title d-flex flex-row justify-content-between">
 										<div class="titles">
-											<a href="single.html"><h4>Creative Art Designer</h4></a>
+											<a href="single.php"><h4>Creative Art Designer</h4></a>
 											<h6>Premium Labels Limited</h6>					
 										</div>
 										<ul class="btns">
@@ -307,7 +307,7 @@
 								<div class="details">
 									<div class="title d-flex flex-row justify-content-between">
 										<div class="titles">
-											<a href="single.html"><h4>Creative Art Designer</h4></a>
+											<a href="single.php"><h4>Creative Art Designer</h4></a>
 											<h6>Premium Labels Limited</h6>					
 										</div>
 										<ul class="btns">
@@ -341,7 +341,7 @@
 								<div class="details">
 									<div class="title d-flex flex-row justify-content-between">
 										<div class="titles">
-											<a href="single.html"><h4>Creative Art Designer</h4></a>
+											<a href="single.php"><h4>Creative Art Designer</h4></a>
 											<h6>Premium Labels Limited</h6>					
 										</div>
 										<ul class="btns">

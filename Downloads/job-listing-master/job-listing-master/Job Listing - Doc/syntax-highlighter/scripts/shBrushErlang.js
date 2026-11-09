@@ -3,7 +3,7 @@
  * http://alexgorbatchev.com/SyntaxHighlighter
  *
  * SyntaxHighlighter is donationware. If you are using it, please donate.
- * http://alexgorbatchev.com/SyntaxHighlighter/donate.html
+ * http://alexgorbatchev.com/SyntaxHighlighter/donate.php
  *
  * @version
  * 3.0.83 (July 02 2010)
@@ -22,9 +22,9 @@
 	function Brush()
 	{
 		// Contributed by Jean-Lou Dupont
-		// http://jldupont.blogspot.com/2009/06/erlang-syntax-highlighter.html  
+		// http://jldupont.blogspot.com/2009/06/erlang-syntax-highlighter.php  
 
-		// According to: http://erlang.org/doc/reference_manual/introduction.html#1.5
+		// According to: http://erlang.org/doc/reference_manual/introduction.php#1.5
 		var keywords = 'after and andalso band begin bnot bor bsl bsr bxor '+
 			'case catch cond div end fun if let not of or orelse '+
 			'query receive rem try when xor'+

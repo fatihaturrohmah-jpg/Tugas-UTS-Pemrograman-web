@@ -14,7 +14,7 @@ if (isset($_POST['login'])) {
         $_SESSION['user_id'] = $data['id'];
         $_SESSION['nama'] = $data['nama'];
 
-       header("Location: index.html");
+       header("Location: index.php");
         exit;
     } else {
         $error = "Email atau password salah!";
@@ -43,21 +43,21 @@ if (isset($_POST['login'])) {
 			    <div class="container">
 			    	<div class="row align-items-center justify-content-between d-flex">
 				      <div id="logo">
-				        <a href="index.html"><img src="img/logo.png" alt="" title="" /></a>
+				        <a href="index.php"><img src="img/logo.png" alt="" title="" /></a>
 				      </div>
 				      <nav id="nav-menu-container">
 				        <ul class="nav-menu">
-				          <li class="menu-active"><a href="index.html">Home</a></li>
-				          <li><a href="about-us.html">About Us</a></li>
-				          <li><a href="category.html">Category</a></li>
-				          <li><a href="price.html">Price</a></li>
-				          <li><a href="blog-home.html">Blog</a></li>
-				          <li><a href="contact.html">Contact</a></li>
+				          <li class="menu-active"><a href="index.php">Home</a></li>
+				          <li><a href="about-us.php">About Us</a></li>
+				          <li><a href="category.php">Category</a></li>
+				          <li><a href="price.php">Price</a></li>
+				          <li><a href="blog-home.php">Blog</a></li>
+				          <li><a href="contact.php">Contact</a></li>
 				          <li class="menu-has-children"><a href="">Pages</a>
 				            <ul>
-								<li><a href="elements.html">elements</a></li>
-								<li><a href="search.html">search</a></li>
-								<li><a href="single.html">single</a></li>
+								<li><a href="elements.php">elements</a></li>
+								<li><a href="search.php">search</a></li>
+								<li><a href="single.php">single</a></li>
 				            </ul>
 				          </li>
 				          <li><a class="ticker-btn" href="register.php">Signup</a></li>
